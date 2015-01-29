@@ -1,0 +1,22 @@
+{
+    "name": "danielneis/moodle-local_syncgroups",
+    "description": "A tool for Moodle to synchronize groups members between courses",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Daniel Neis Araujo",
+            "email": "danielneis@gmail.com"
+        },
+        {
+            "name": "Antonio Carlos Mariani",
+            "email": "a.c.mariani@inf.ufsc.br"
+        }
+    ],
+    "type": "moodle-local",
+    "require": {
+      "composer/installers": "~1.0"
+    },
+    "extra": {
+      "installer-name": "syncgroups"
+    }
+}
