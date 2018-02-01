@@ -1,7 +1,7 @@
 {
     "name": "danielneis/moodle-local_syncgroups",
     "description": "A tool for Moodle to synchronize groups members between courses",
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Daniel Neis Araujo",
